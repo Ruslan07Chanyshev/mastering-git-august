@@ -1,3 +1,7 @@
 # mastering-git-august
-for August ansible class 
-line 2
+## header2 
+### header3
+
+removed2 
+removed3
+
